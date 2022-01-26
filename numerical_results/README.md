@@ -1,11 +1,11 @@
-# A Machine Learning Acceleration for Nonlinear PDE Solvers
+## A Machine Learning Acceleration for Nonlinear PDE Solvers
 
-## Directories:
+### Directories:
 
 - **featureselection**: Numerical experiments for the feature selection.
 - **modelselection**: Numerical experiments for the model selection.
 
-## Numerical results
+### Numerical results
 
 Inside **featureselection** and **modelselection** there are four folders:
 

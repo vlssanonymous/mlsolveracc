@@ -28,4 +28,7 @@ Finally, start Jupyter:
  $ jupyter notebook
 ```
 
+### Datasets
+
+To download the datasets follow the instructions in the directory **datasets**.
 
