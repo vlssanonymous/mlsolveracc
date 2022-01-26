@@ -2,8 +2,8 @@
 
 ### Datasets:
 
-- *trainset.csv*: Training set.
-- *testset.csv*: Test set.
+- *trainset.csv* -> Training set.
+- *testset.csv* -> Test set.
 
 ### Requirements
 
