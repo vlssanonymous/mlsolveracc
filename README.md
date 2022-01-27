@@ -9,7 +9,7 @@ This repository is the official implementation of:
 - **datasets**: Train and test datasets.
 - **feature_selection**: Grid search for different sets of features.
 - **model_selection**: Grid search for different machine learning models.
-- **numerical_results**: Numerical results.
+- **numerical_experiments**: Numerical results.
 - **xgboost_coupling**: XGBoost coupling.
 
 ## Requirements
