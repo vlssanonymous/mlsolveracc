@@ -1,8 +1,8 @@
-# A Machine Learning Acceleration for Nonlinear PDE Solvers
+# Adaptive Learning Acceleration for Nonlinear PDE Solvers
 
 This repository is the official implementation of: 
 
-***A Machine Learning Acceleration for Nonlinear PDE Solvers*** ICML submitted paper.
+***Adaptive Learning Acceleration for Nonlinear PDE Solvers*** ICML submitted paper.
 
 ## Directories:
 
@@ -10,6 +10,7 @@ This repository is the official implementation of:
 - **feature_selection**: Grid search for different sets of features.
 - **model_selection**: Grid search for different machine learning models.
 - **numerical_experiments**: All numerical experiments.
+- **online_learning**: Online learning scripts.
 - **xgboost_coupling**: XGBoost coupling.
 
 ## Requirements

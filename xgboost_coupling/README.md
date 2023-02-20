@@ -1,4 +1,4 @@
-## A Machine Learning Acceleration for Nonlinear PDE Solvers
+# Adaptive Learning Acceleration for Nonlinear PDE Solvers
 
 ### XGBoost coupling:
 
