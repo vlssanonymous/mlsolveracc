@@ -2,7 +2,7 @@
 
 This repository is the official implementation of: 
 
-***Adaptive Learning Acceleration for Nonlinear PDE Solvers*** ICML submitted paper.
+***Adaptive Learning Acceleration for Nonlinear PDE Solvers*** 
 
 ## Directories:
 
